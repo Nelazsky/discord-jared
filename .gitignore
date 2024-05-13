@@ -1,0 +1,8 @@
+node_modules
+dist/*
+src/public/gs2c
+!src/public/gs2c/common/games-html5/operator_logos/logo_info.js
+.env
+config.json
+/.idea
+/.vscode

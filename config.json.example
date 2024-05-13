@@ -1,0 +1,14 @@
+{
+    "local":{
+       "host":"http://localhost",
+       "port": 8000
+    },
+    "staging":{
+       "host":"https://staging.example.com",
+       "port": 8000
+    },
+    "production":{
+       "host":"https://example.com",
+       "port": 8000
+    }
+ }
